@@ -78,4 +78,4 @@ SkyBay-Luxe/
 
 SkyBay Luxe provides a premium hotel browsing experience inspired by modern travel and luxury booking platforms.
 
-© 2026 SkyBay Luxe. All Rights Reserved.
+  © 2026 SkyBay Luxe. All Rights Reserved.
