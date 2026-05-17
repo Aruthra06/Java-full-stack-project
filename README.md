@@ -2,7 +2,7 @@
 
 SkyBay Luxe is a modern hotel reservation website designed with a premium luxury UI and responsive experience. The platform allows users to explore hotels, search destinations, and make bookings through an interactive and visually appealing interface.
 
-![SkyBay Luxe Banner](https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1200)
+![SkyBay Luxe](https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=1200)
 
 ✨ Features
 
@@ -35,7 +35,7 @@ Database
 * MySQL
 
 📂 Project Structure
-
+```bash
 SkyBay-Luxe/
 │
 ├── frontend/
@@ -54,7 +54,7 @@ SkyBay-Luxe/
 │   └── schema.sql
 │
 └── README.md
-
+```
 🌍 Main Sections
 
 * Home
